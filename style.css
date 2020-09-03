@@ -1,0 +1,84 @@
+body {
+	font-family: arial;
+	padding: 10px;
+	background: #f1f1f1;
+	background-image: linear-gradient(to right, #f98b8b, #fee5c7)
+}
+
+
+
+.header{
+padding: 30px;
+text-align: center;
+background: white;
+}
+
+.header h1{
+	font-size:50px;
+}
+
+.topnav {
+	overflow: hidden; 
+	background-color: #333;
+}
+.topnav a{
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align:center;
+	padding:14px 16px;
+	text-decoration: none;
+}
+
+.header{
+	color: 55655
+}
+.header h3{
+
+}
+.summary{
+
+padding: 0 10%;
+float: right;
+width: 500px;
+
+
+}
+.photo{
+	width: 30%;
+	padding: 1.11rem;
+	border-radius: 5px;
+	margin: 0 20px 1.5rem auto;
+	background-color: #aaa;
+	float: left;
+display: block;
+    display: block;
+
+  
+ 
+  
+}
+
+
+
+.photo img{
+	width: 100%;
+
+	animation: right;
+animation-duration: 2s
+}
+
+.photo .caption{
+	font-size: 14px;
+	font-family: italic;
+}
+h4{
+	clear: left ; 
+}
+.footer{
+	clear: left;
+	padding: 20px;
+	text-align: center;
+	background: #bbb;
+	margin-top:20px;
+}
